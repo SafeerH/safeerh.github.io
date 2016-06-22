@@ -69,6 +69,10 @@ p {
   text-align: center;
   color: #fff;
 }
+.sidebar-wrapper .profile-container .profile {
+  width: 120px;
+  border-radius: 50%;
+}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;

@@ -73,6 +73,10 @@ p {
   width: 120px;
   border-radius: 50%;
 }
+.sidebar-wrapper .profile-container .fb-widget {
+  margin-top: 25px;
+  height: 20px;
+}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
